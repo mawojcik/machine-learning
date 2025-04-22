@@ -8,4 +8,9 @@
 
 **Lista 3** 055Decision_trees_Exercises.ipynb
 
-:white_check_mark: [exercise2_clustering/linear_regression.ipynb](https://github.com/mawojcik/machine-learning/tree/main/exercise3_decision_trees)
+:white_check_mark: [exercise3_decision_trees/055Decision_trees_Exercises.ipynb](https://github.com/mawojcik/machine-learning/tree/main/exercise3_decision_trees)
+
+
+**Lista 4** 065_SVM_Exercises.ipynb
+
+:white_check_mark: [exercise4_SVM/065_SVM_Exercises.ipynb](https://github.com/mawojcik/machine-learning/tree/main/exercise4_SVM)
