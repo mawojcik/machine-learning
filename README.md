@@ -18,3 +18,7 @@
 **Lista 5** 075Ensemble_Exercises.ipynb
 
 :white_check_mark: [exercise4_SVM/065_SVM_Exercises.ipynb](https://github.com/mawojcik/machine-learning/tree/main/exercise5_ensemble)
+
+**Lista 6** 106_NLP_Exercises.ipynb
+
+:white_check_mark: [exercise4_SVM/065_SVM_Exercises.ipynb](https://github.com/mawojcik/machine-learning/tree/main/exercise6_NLP)
